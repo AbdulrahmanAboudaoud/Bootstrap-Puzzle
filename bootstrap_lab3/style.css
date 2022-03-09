@@ -1,0 +1,23 @@
+.gallery{
+	background-color: #2F4F4F;
+	padding: 80px 0;
+}
+img{
+	max-width: 100%;
+}
+
+.gallery img{
+	background-color: #FFDEAD;
+	padding: 10px;
+	width: 100%;
+	box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+h1{
+	text-align: center;
+	background-color: #FFDEAD;
+	color: #2F4F4F;
+	border: solid black 10px;
+	width: 400px;
+	margin: 50px auto;
+}
